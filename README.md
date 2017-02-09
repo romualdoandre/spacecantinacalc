@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Blank HTML App Designer Template for Building Packaged Mobile Web Apps
 ======================================================================
 
@@ -50,3 +51,7 @@ your project into a Cordova project. You can do this by clicking the Cordova
 icon in the *Project Info* section on the **Projects** tab. Or, you can create a
 new Cordova project using a Cordova blank template or a Cordova demo or sample
 app as a starting point.
+=======
+# spacecantinacalc
+Calculadora de pontos para o jogo Space Cantina
+>>>>>>> remotes/master/master
