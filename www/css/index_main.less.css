@@ -781,3 +781,6 @@ label:empty {
   display: table-cell;
   width: 15px;
 }
+.checkbox-padding-left {
+  padding-left: 20px;
+}

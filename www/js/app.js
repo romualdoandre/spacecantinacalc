@@ -20,6 +20,18 @@
 //     "use strict" ;
 // // ...event handler code here...
 // }
+function mainEventHandler(){
+    $('#sum-button').click(sum);
+}
 
+function sum(){
+    var sum=0;
+    showPopup(sum);
+}
 
+function showPopup(sum){
+    console.log(sum);
+    $('#result-value').text(sum+'$');
+    $('#result-popup').modal();
+}
 // ...additional event handlers here...
