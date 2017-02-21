@@ -23,18 +23,18 @@
 
 function sum(){
     var value=0;
-    var star=$('#star-value').val();
-    var client=$('#client-value').val();
-    var alien=$('#alien-value').val();
-    var ciborg=$('#ciborg-value').val();
-    var robot=$('#robot-value').val();
-    var demand=$('#demand-value').val();
-    var goal=$('#goal-value').val();
-    var insatisfaction=$('#insatisfaction-value').val();
-    var manager=$('#manager-value').val();
-    var maitre=$('#maitre-value').val();
-    var chef=$('#chef-value').val();
-    var money=$('#money-value').val();
+    var star=parseInt($('#star-value').val());
+    var client=parseInt($('#client-value').val());
+    var alien=parseInt($('#alien-value').val());
+    var ciborg=parseInt($('#ciborg-value').val());
+    var robot=parseInt($('#robot-value').val());
+    var demand=parseInt($('#demand-value').val());
+    var goal=parseInt($('#goal-value').val());
+    var insatisfaction=parseInt($('#insatisfaction-value').val());
+    var manager=parseInt($('#manager-value').val());
+    var maitre=parseInt($('#maitre-value').val());
+    var chef=parseInt($('#chef-value').val());
+    var money=parseInt($('#money-value').val());
     var satisfaction=$('#insatisfaction-check').prop('checked')?3:0;
     value=star+client+alien+ciborg+robot+demand+goal+money+satisfaction-insatisfaction-manager-maitre-chef;
     

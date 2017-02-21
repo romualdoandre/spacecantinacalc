@@ -6,7 +6,7 @@
       "projectTypeName": "com.intel.xdk.projecttype.webapp",
       "src": "webapp/template-blank-ad-project/sample.zip",
       "projectGuid": "285615fe-b36f-4ef7-89e0-526e7f441285",
-      "lastModifiedDate": 1486405915495,
+      "lastModifiedDate": 1487684417873,
       "creationDate": 1486405805656
     },
     "XDK-app-designer": "true",
@@ -119,7 +119,7 @@
         "preferences_": {},
         "isActive_": true,
         "certificateId_": "",
-        "appName_": "spacecantinacalc",
+        "appName_": "Calculadora Space Cantina",
         "appID_": "xdk.intel.blank.ad.template",
         "appAccess_": {
           "mode": "legacy",
@@ -129,13 +129,24 @@
           "intents": [],
           "navigation": []
         },
-        "icons_": [],
+        "icons_": [
+          {
+            "relPath": "package-assets/icon16x16.png",
+            "width": 16,
+            "height": 16
+          },
+          {
+            "relPath": "package-assets/icon128x128.png",
+            "width": 128,
+            "height": 128
+          }
+        ],
         "splashes_": [],
         "addlPermissions_": "",
         "excludedLibraries_": "",
-        "appVersion_": "0.0.1",
+        "appVersion_": "1.0",
         "appAuthor_": "Intel XDK",
-        "appDescription_": "Template to develop a packaged mobile web app using the App Designer UI editor."
+        "appDescription_": "Calculadora para ajudar no fim do jogo Space Cantina"
       },
       "Firefox": {
         "platform_": "firefoxos",
@@ -219,25 +230,59 @@
           "android-signed": true
         },
         "isActive_": true,
-        "certificateId_": "",
-        "appName_": "spacecantinacalc",
+        "certificateId_": "KSAAJao_XU2GkHTRqoyw6w2",
+        "appName_": "Calc Space Cantina",
         "appID_": "xdk.intel.blank.ad.template.crosswalk",
         "appAccess_": {
-          "mode": "legacy",
+          "mode": "whitelist",
           "network": [],
           "intents": [],
-          "navigation": []
+          "navigation": [],
+          "properties": {}
         },
-        "icons_": [],
-        "splashes_": [],
+        "icons_": [
+          {
+            "density": "ldpi",
+            "relPath": "package-assets/icon36x36.png",
+            "width": 36,
+            "height": 36
+          },
+          {
+            "density": "mdpi",
+            "relPath": "package-assets/icon48x48.png",
+            "width": 48,
+            "height": 48
+          },
+          {
+            "density": "hdpi",
+            "relPath": "package-assets/icon72x72.png",
+            "width": 72,
+            "height": 72
+          },
+          {
+            "density": "xhdpi",
+            "relPath": "package-assets/icon96x96.png",
+            "width": 96,
+            "height": 96
+          }
+        ],
+        "splashes_": [
+          {
+            "relPath": "package-assets/screenshotLDPI.png",
+            "density": "ldpi",
+            "height": 426,
+            "width": 320,
+            "orientation": "portrait"
+          }
+        ],
         "addlPermissions_": "",
         "excludedLibraries_": "",
         "iosProvs_": [],
         "cordovaCLIVersion_": "6.2.0",
         "crosswalkVersion_": "19",
-        "appVersion_": "0.0.1",
-        "appAuthor_": "Intel XDK",
-        "appDescription_": "Template to develop a packaged mobile web app using the App Designer UI editor.",
+        "appVersion_": "1.0",
+        "appAuthor_": "Romualdo André romualdoandre@gmail.com",
+        "appDescription_": "Calculadora para ajudar no fim do jogo Space Cantina",
         "appVersionCode_": "1",
         "signed_": true
       }
