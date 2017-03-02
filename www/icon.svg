@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="36px"
+   height="36px"
+   viewBox="0 0 36 36"
+   version="1.1"
+   id="SVGRoot"
+   inkscape:version="0.92.1 r15371"
+   sodipodi:docname="icon.svg"
+   inkscape:export-filename="C:\Users\Administrador\Documents\spacecantinacalc\package-assets\icon128x128.png"
+   inkscape:export-xdpi="341.32999"
+   inkscape:export-ydpi="341.32999">
+  <title
+     id="title5068">Icone do Space Cantina Calc</title>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="7.1111111"
+     inkscape:cx="27.417295"
+     inkscape:cy="18"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1600"
+     inkscape:window-height="838"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:grid-bbox="true" />
+  <defs
+     id="defs4485">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient5050">
+      <stop
+         style="stop-color:#999999;stop-opacity:1;"
+         offset="0"
+         id="stop5046" />
+      <stop
+         style="stop-color:#999999;stop-opacity:0;"
+         offset="1"
+         id="stop5048" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5050"
+       id="linearGradient5052"
+       x1="11.869239"
+       y1="15.612274"
+       x2="13.775101"
+       y2="9.5471239"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <metadata
+     id="metadata4488">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Icone do Space Cantina Calc</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Camada 1">
+    <rect
+       style="fill:#e6e6e6;fill-opacity:1;stroke:none;stroke-width:0.97604328;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect5066"
+       width="35.038582"
+       height="34.757332"
+       x="0.55102164"
+       y="0.41039664" />
+    <path
+       sodipodi:type="star"
+       style="fill:url(#linearGradient5052);fill-opacity:1;stroke:#999999;stroke-width:0.99900001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path5044"
+       sodipodi:sides="3"
+       sodipodi:cx="11.53125"
+       sodipodi:cy="11.25"
+       sodipodi:r1="10.695823"
+       sodipodi:r2="5.3479118"
+       sodipodi:arg1="0.88784202"
+       sodipodi:arg2="1.9350396"
+       inkscape:flatsided="false"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="M 18.28125,19.546875 9.6260975,16.247055 0.97094599,12.947234 8.15625,7.1015622 15.341554,1.2558915 16.811403,10.401383 Z"
+       inkscape:transform-center-x="-0.63778224"
+       inkscape:transform-center-y="5.1029701"
+       transform="matrix(1.2867984,1.0456789,-1.0331633,1.3023865,14.356711,-11.791502)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35px;line-height:125%;font-family:Tunga;-inkscape-font-specification:Tunga;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="0.703125"
+       y="18.421875"
+       id="text5056"><tspan
+         sodipodi:role="line"
+         id="tspan5054"
+         x="0.703125"
+         y="18.421875"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333302px;font-family:Tunga;-inkscape-font-specification:Tunga">Space</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:34.10232925px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.97435224px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="8.8242273"
+       y="26.444529"
+       id="text5060"
+       transform="scale(0.97435223,1.0263229)"><tspan
+         sodipodi:role="line"
+         id="tspan5058"
+         x="8.8242273"
+         y="26.444529"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.39309216px;font-family:Tunga;-inkscape-font-specification:Tunga;stroke-width:0.97435224px">Cantina</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:30.2708168px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.86488044px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="0.29347399"
+       y="8.0271711"
+       id="text5064"
+       transform="scale(0.86488049,1.1562291)"><tspan
+         sodipodi:role="line"
+         id="tspan5062"
+         x="0.29347399"
+         y="8.0271711"
+         style="font-size:6.91904354px;stroke-width:0.86488044px">Calculadora</tspan></text>
+  </g>
+</svg>

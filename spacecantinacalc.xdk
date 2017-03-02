@@ -6,7 +6,7 @@
       "projectTypeName": "com.intel.xdk.projecttype.webapp",
       "src": "webapp/template-blank-ad-project/sample.zip",
       "projectGuid": "285615fe-b36f-4ef7-89e0-526e7f441285",
-      "lastModifiedDate": 1487684417873,
+      "lastModifiedDate": 1488393801059,
       "creationDate": 1486405805656
     },
     "XDK-app-designer": "true",
@@ -289,7 +289,9 @@
     },
     "gameAssetDirectory": "asset",
     "gameMetadata": {},
-    "projectTags": [],
+    "projectTags": [
+      "XDK-disallow-legacy-whitelist"
+    ],
     "testDirectory": "test"
   }
 }
