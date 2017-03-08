@@ -15,7 +15,7 @@
         /* button  #sum-button */
     $(document).on("click", "#sum-button", function(evt)
     {
-        /* your code goes here */ 
+        sum();
          return false;
     });
     

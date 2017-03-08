@@ -54,9 +54,7 @@ app.initEvents = function() {
     // initMyAppCodeNumberOne() ;
     // initMyAppCodeNumberTwo() ;
     // initMyAppCodeNumberEtc() ;
-    $('#sum-button').click(function(evt){
-        sum();
-    });
+   
 
     // NOTE: initialize your app event handlers, see app.js for a simple event handler example
 

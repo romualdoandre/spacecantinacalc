@@ -6,7 +6,7 @@
       "projectTypeName": "com.intel.xdk.projecttype.webapp",
       "src": "webapp/template-blank-ad-project/sample.zip",
       "projectGuid": "285615fe-b36f-4ef7-89e0-526e7f441285",
-      "lastModifiedDate": 1488393801059,
+      "lastModifiedDate": 1488832559073,
       "creationDate": 1486405805656
     },
     "XDK-app-designer": "true",
@@ -221,7 +221,7 @@
       },
       "Android": {
         "platform_": "android",
-        "runtime_": "W3C on Crosswalk",
+        "runtime_": "W3C on Cordova",
         "name_": "Android",
         "preferences_": {
           "android-minSdkVersion": "14",
@@ -231,8 +231,8 @@
         },
         "isActive_": true,
         "certificateId_": "KSAAJao_XU2GkHTRqoyw6w2",
-        "appName_": "Calc Space Cantina",
-        "appID_": "xdk.intel.blank.ad.template.crosswalk",
+        "appName_": "SpaceCalc",
+        "appID_": "br.com.programadorfeirense.spacecalc",
         "appAccess_": {
           "mode": "whitelist",
           "network": [],
@@ -273,6 +273,27 @@
             "height": 426,
             "width": 320,
             "orientation": "portrait"
+          },
+          {
+            "relPath": "package-assets/screenshotMDPI.png",
+            "density": "mdpi",
+            "height": 470,
+            "width": 320,
+            "orientation": "portrait"
+          },
+          {
+            "relPath": "package-assets/screenshotHDPI.png",
+            "density": "hdpi",
+            "height": 640,
+            "width": 480,
+            "orientation": "portrait"
+          },
+          {
+            "relPath": "package-assets/screenshotXHDPI.png",
+            "density": "xhdpi",
+            "height": 960,
+            "width": 720,
+            "orientation": "portrait"
           }
         ],
         "addlPermissions_": "",
@@ -280,7 +301,7 @@
         "iosProvs_": [],
         "cordovaCLIVersion_": "6.2.0",
         "crosswalkVersion_": "19",
-        "appVersion_": "1.0",
+        "appVersion_": "1.1",
         "appAuthor_": "Romualdo André romualdoandre@gmail.com",
         "appDescription_": "Calculadora para ajudar no fim do jogo Space Cantina",
         "appVersionCode_": "1",
