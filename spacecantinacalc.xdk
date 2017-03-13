@@ -6,7 +6,7 @@
       "projectTypeName": "com.intel.xdk.projecttype.webapp",
       "src": "webapp/template-blank-ad-project/sample.zip",
       "projectGuid": "285615fe-b36f-4ef7-89e0-526e7f441285",
-      "lastModifiedDate": 1488832559073,
+      "lastModifiedDate": 1489433334138,
       "creationDate": 1486405805656
     },
     "XDK-app-designer": "true",
@@ -131,14 +131,14 @@
         },
         "icons_": [
           {
-            "relPath": "package-assets/icon16x16.png",
-            "width": 16,
-            "height": 16
-          },
-          {
             "relPath": "package-assets/icon128x128.png",
             "width": 128,
             "height": 128
+          },
+          {
+            "relPath": "package-assets/icon16x16.png",
+            "width": 16,
+            "height": 16
           }
         ],
         "splashes_": [],
