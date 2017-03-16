@@ -427,7 +427,7 @@ body#afui .splt {
 }
 @media all {
   .header-bg {
-    background-color: #666666;
+    background-color: #53689e;
     background-position: center center;
     background-repeat: no-repeat;
     background-attachment: scroll;
@@ -1352,3 +1352,8 @@ label:empty {
     width: auto !important;
   }
 }
+/*
+	.panel-bg
+	.panel-bg > .panel-heading
+	.panel-bg > .panel-collapse > .panel-body
+*/

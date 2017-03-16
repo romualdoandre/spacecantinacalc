@@ -6,7 +6,7 @@
       "projectTypeName": "com.intel.xdk.projecttype.webapp",
       "src": "webapp/template-blank-ad-project/sample.zip",
       "projectGuid": "285615fe-b36f-4ef7-89e0-526e7f441285",
-      "lastModifiedDate": 1489433334138,
+      "lastModifiedDate": 1489437391747,
       "creationDate": 1486405805656
     },
     "XDK-app-designer": "true",
@@ -301,7 +301,7 @@
         "iosProvs_": [],
         "cordovaCLIVersion_": "6.2.0",
         "crosswalkVersion_": "19",
-        "appVersion_": "1.1",
+        "appVersion_": "1.2",
         "appAuthor_": "Romualdo André romualdoandre@gmail.com",
         "appDescription_": "Calculadora para ajudar no fim do jogo Space Cantina",
         "appVersionCode_": "1",

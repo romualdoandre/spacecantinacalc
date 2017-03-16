@@ -17,9 +17,9 @@
    id="SVGRoot"
    inkscape:version="0.92.1 r15371"
    sodipodi:docname="icon.svg"
-   inkscape:export-filename="C:\Users\Administrador\Documents\spacecantinacalc\package-assets\icon16x16.png"
-   inkscape:export-xdpi="42.669998"
-   inkscape:export-ydpi="42.669998">
+   inkscape:export-filename="C:\Users\Administrador\Documents\spacecantinacalc\package-assets\icon96x96.png"
+   inkscape:export-xdpi="256"
+   inkscape:export-ydpi="256">
   <title
      id="title5068">Icone do Space Cantina Calc</title>
   <sodipodi:namedview
@@ -108,7 +108,7 @@
        transform="matrix(1.2867984,1.0456789,-1.0331633,1.3023865,14.356711,-11.791502)" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35px;line-height:125%;font-family:Tunga;-inkscape-font-specification:Tunga;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.18897638;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35px;line-height:125%;font-family:Tunga;-inkscape-font-specification:Tunga;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.18897638;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;"
        x="6.9022169"
        y="18.421875"
        id="text5056"
@@ -117,10 +117,10 @@
          id="tspan5054"
          x="6.9022169"
          y="18.421875"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333302px;font-family:Tunga;-inkscape-font-specification:Tunga;stroke:#ffffff;stroke-opacity:1;stroke-width:0.18897638;stroke-miterlimit:4;stroke-dasharray:none">Space</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333302px;font-family:Tunga;-inkscape-font-specification:Tunga;stroke:none;stroke-opacity:1;stroke-width:0.18897638;stroke-miterlimit:4;stroke-dasharray:none;fill:#ffffff;fill-opacity:1;">Space</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:34.10232925px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.18897638;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       style="font-style:normal;font-weight:normal;font-size:34.10232925px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.18897638;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;"
        x="15.469402"
        y="26.444529"
        id="text5060"
@@ -129,6 +129,6 @@
          id="tspan5058"
          x="15.469402"
          y="26.444529"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.39309216px;font-family:Tunga;-inkscape-font-specification:Tunga;stroke-width:0.18897638;stroke:#ffffff;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none">Calc</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.39309216px;font-family:Tunga;-inkscape-font-specification:Tunga;stroke-width:0.18897638;stroke:none;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;fill:#ffffff;fill-opacity:1;">Calc</tspan></text>
   </g>
 </svg>
